@@ -1,0 +1,15 @@
+C:\Users\humbe\source\repos\Test\Database\bin\Debug\net7.0\Database.deps.json
+C:\Users\humbe\source\repos\Test\Database\bin\Debug\net7.0\Database.dll
+C:\Users\humbe\source\repos\Test\Database\bin\Debug\net7.0\Database.pdb
+C:\Users\humbe\source\repos\Test\Database\bin\Debug\net7.0\Model.dll
+C:\Users\humbe\source\repos\Test\Database\bin\Debug\net7.0\Model.pdb
+C:\Users\humbe\source\repos\Test\Database\obj\Debug\net7.0\Database.csproj.AssemblyReference.cache
+C:\Users\humbe\source\repos\Test\Database\obj\Debug\net7.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\source\repos\Test\Database\obj\Debug\net7.0\Database.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\Test\Database\obj\Debug\net7.0\Database.AssemblyInfo.cs
+C:\Users\humbe\source\repos\Test\Database\obj\Debug\net7.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\Test\Database\obj\Debug\net7.0\Database.csproj.CopyComplete
+C:\Users\humbe\source\repos\Test\Database\obj\Debug\net7.0\Database.dll
+C:\Users\humbe\source\repos\Test\Database\obj\Debug\net7.0\refint\Database.dll
+C:\Users\humbe\source\repos\Test\Database\obj\Debug\net7.0\Database.pdb
+C:\Users\humbe\source\repos\Test\Database\obj\Debug\net7.0\ref\Database.dll
