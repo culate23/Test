@@ -1,0 +1,17 @@
+C:\Users\humbe\source\repos\Test\Logic\bin\Debug\net7.0\Logic.deps.json
+C:\Users\humbe\source\repos\Test\Logic\bin\Debug\net7.0\Logic.dll
+C:\Users\humbe\source\repos\Test\Logic\bin\Debug\net7.0\Logic.pdb
+C:\Users\humbe\source\repos\Test\Logic\bin\Debug\net7.0\Database.dll
+C:\Users\humbe\source\repos\Test\Logic\bin\Debug\net7.0\Model.dll
+C:\Users\humbe\source\repos\Test\Logic\bin\Debug\net7.0\Database.pdb
+C:\Users\humbe\source\repos\Test\Logic\bin\Debug\net7.0\Model.pdb
+C:\Users\humbe\source\repos\Test\Logic\obj\Debug\net7.0\Logic.csproj.AssemblyReference.cache
+C:\Users\humbe\source\repos\Test\Logic\obj\Debug\net7.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humbe\source\repos\Test\Logic\obj\Debug\net7.0\Logic.AssemblyInfoInputs.cache
+C:\Users\humbe\source\repos\Test\Logic\obj\Debug\net7.0\Logic.AssemblyInfo.cs
+C:\Users\humbe\source\repos\Test\Logic\obj\Debug\net7.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\humbe\source\repos\Test\Logic\obj\Debug\net7.0\Logic.csproj.CopyComplete
+C:\Users\humbe\source\repos\Test\Logic\obj\Debug\net7.0\Logic.dll
+C:\Users\humbe\source\repos\Test\Logic\obj\Debug\net7.0\refint\Logic.dll
+C:\Users\humbe\source\repos\Test\Logic\obj\Debug\net7.0\Logic.pdb
+C:\Users\humbe\source\repos\Test\Logic\obj\Debug\net7.0\ref\Logic.dll
